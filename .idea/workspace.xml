@@ -32,6 +32,7 @@
   <component name="RunManager">
     <configuration name="All Tests" type="JavaScriptTestRunnerPlaywright" nameIsGenerated="true">
       <node-interpreter value="$APPLICATION_CONFIG_DIR$/node/versions/20.15.0/node" />
+      <playwright-package value="$PROJECT_DIR$/node_modules/@playwright/test" />
       <working-dir value="$PROJECT_DIR$" />
       <envs />
       <scope-kind value="ALL" />
@@ -56,6 +57,7 @@
       <workItem from="1759119876757" duration="139000" />
       <workItem from="1759120098438" duration="171000" />
       <workItem from="1759120343964" duration="303000" />
+      <workItem from="1759237179100" duration="10000" />
     </task>
     <servers />
   </component>
